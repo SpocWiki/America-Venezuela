@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-66.93] 
-[geo-lat::10.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-66.93] 
+[has_place_latitude::10.5] 
 [name::Caracas] 
 State ::  
 Country :: [[../../../../Venezuela]]  
