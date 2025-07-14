@@ -40,11 +40,16 @@ markerFolder: ./Dependencias_Federales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales|Dependencias_Federales]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.public|Dependencias_Federales.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.internal|Dependencias_Federales.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.protect|Dependencias_Federales.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.private|Dependencias_Federales.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.personal|Dependencias_Federales.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Dependencias_Federales.secret|Dependencias_Federales.secret]] 
+
+### [Dependencias_Federales.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.public.md) 
+
+### [Dependencias_Federales.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.internal.md) 
+
+### [Dependencias_Federales.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.protect.md) 
+
+### [Dependencias_Federales.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.private.md) 
+
+### [Dependencias_Federales.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.personal.md) 
+
+### [Dependencias_Federales.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaDependencias_Federales.secret.md)
 

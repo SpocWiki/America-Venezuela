@@ -40,11 +40,16 @@ markerFolder: ./Carabobo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Carabobo|Carabobo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Carabobo.public|Carabobo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Carabobo.internal|Carabobo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Carabobo.protect|Carabobo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Carabobo.private|Carabobo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Carabobo.personal|Carabobo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Carabobo.secret|Carabobo.secret]] 
+
+### [Carabobo.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.public.md) 
+
+### [Carabobo.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.internal.md) 
+
+### [Carabobo.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.protect.md) 
+
+### [Carabobo.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.private.md) 
+
+### [Carabobo.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.personal.md) 
+
+### [Carabobo.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaCarabobo.secret.md)
 

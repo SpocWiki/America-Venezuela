@@ -40,11 +40,16 @@ markerFolder: ./Lara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Lara|Lara]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Lara.public|Lara.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Lara.internal|Lara.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Lara.protect|Lara.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Lara.private|Lara.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Lara.personal|Lara.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Lara.secret|Lara.secret]] 
+
+### [Lara.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.public.md) 
+
+### [Lara.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.internal.md) 
+
+### [Lara.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.protect.md) 
+
+### [Lara.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.private.md) 
+
+### [Lara.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.personal.md) 
+
+### [Lara.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.secret.md)
 

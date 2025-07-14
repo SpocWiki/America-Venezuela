@@ -40,11 +40,16 @@ markerFolder: ./Táchira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Táchira|Táchira]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Táchira.public|Táchira.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Táchira.internal|Táchira.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Táchira.protect|Táchira.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Táchira.private|Táchira.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Táchira.personal|Táchira.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Táchira.secret|Táchira.secret]] 
+
+### [Táchira.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.public.md) 
+
+### [Táchira.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.internal.md) 
+
+### [Táchira.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.protect.md) 
+
+### [Táchira.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.private.md) 
+
+### [Táchira.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.personal.md) 
+
+### [Táchira.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaTáchira.secret.md)
 

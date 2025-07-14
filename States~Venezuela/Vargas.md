@@ -40,11 +40,16 @@ markerFolder: ./Vargas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Vargas|Vargas]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Vargas.public|Vargas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Vargas.internal|Vargas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Vargas.protect|Vargas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Vargas.private|Vargas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Vargas.personal|Vargas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Vargas.secret|Vargas.secret]] 
+
+### [Vargas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.public.md) 
+
+### [Vargas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.internal.md) 
+
+### [Vargas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.protect.md) 
+
+### [Vargas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.private.md) 
+
+### [Vargas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.personal.md) 
+
+### [Vargas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.secret.md)
 

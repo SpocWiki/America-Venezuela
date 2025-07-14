@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 10.5
 - -66.93
@@ -134,11 +134,17 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 [has_place_latitude::10.5] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Venezuela|Venezuela]] 
-- [[../../../../_internal/geo/Continent/America~South/Venezuela.internal|Venezuela.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Venezuela.protect|Venezuela.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Venezuela.private|Venezuela.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Venezuela.personal|Venezuela.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Venezuela.secret|Venezuela.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\VenezuelaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\VenezuelaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\VenezuelaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\VenezuelaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\VenezuelaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\VenezuelaReadMe.secret.md)
+

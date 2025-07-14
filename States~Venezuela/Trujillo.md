@@ -40,11 +40,16 @@ markerFolder: ./Trujillo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Trujillo|Trujillo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Trujillo.public|Trujillo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Trujillo.internal|Trujillo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Trujillo.protect|Trujillo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Trujillo.private|Trujillo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Trujillo.personal|Trujillo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Trujillo.secret|Trujillo.secret]] 
+
+### [Trujillo.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.public.md) 
+
+### [Trujillo.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.internal.md) 
+
+### [Trujillo.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.protect.md) 
+
+### [Trujillo.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.private.md) 
+
+### [Trujillo.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.personal.md) 
+
+### [Trujillo.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaTrujillo.secret.md)
 

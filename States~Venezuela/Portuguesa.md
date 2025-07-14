@@ -40,11 +40,16 @@ markerFolder: ./Portuguesa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Portuguesa|Portuguesa]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Portuguesa.public|Portuguesa.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.internal|Portuguesa.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Portuguesa.protect|Portuguesa.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Portuguesa.private|Portuguesa.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Portuguesa.personal|Portuguesa.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Portuguesa.secret|Portuguesa.secret]] 
+
+### [Portuguesa.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.public.md) 
+
+### [Portuguesa.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.internal.md) 
+
+### [Portuguesa.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.protect.md) 
+
+### [Portuguesa.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.private.md) 
+
+### [Portuguesa.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.personal.md) 
+
+### [Portuguesa.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.secret.md)
 

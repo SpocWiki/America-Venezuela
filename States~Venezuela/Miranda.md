@@ -40,11 +40,16 @@ markerFolder: ./Miranda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Miranda|Miranda]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Miranda.public|Miranda.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Miranda.internal|Miranda.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Miranda.protect|Miranda.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Miranda.private|Miranda.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Miranda.personal|Miranda.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Miranda.secret|Miranda.secret]] 
+
+### [Miranda.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.public.md) 
+
+### [Miranda.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.internal.md) 
+
+### [Miranda.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.protect.md) 
+
+### [Miranda.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.private.md) 
+
+### [Miranda.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.personal.md) 
+
+### [Miranda.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaMiranda.secret.md)
 

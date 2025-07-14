@@ -40,11 +40,16 @@ markerFolder: ./Barinas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Barinas|Barinas]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Barinas.public|Barinas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Barinas.internal|Barinas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Barinas.protect|Barinas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Barinas.private|Barinas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Barinas.personal|Barinas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Barinas.secret|Barinas.secret]] 
+
+### [Barinas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.public.md) 
+
+### [Barinas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.internal.md) 
+
+### [Barinas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.protect.md) 
+
+### [Barinas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.private.md) 
+
+### [Barinas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.personal.md) 
+
+### [Barinas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.secret.md)
 

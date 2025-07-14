@@ -40,11 +40,16 @@ markerFolder: ./Monagas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Monagas|Monagas]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Monagas.public|Monagas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Monagas.internal|Monagas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Monagas.protect|Monagas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Monagas.private|Monagas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Monagas.personal|Monagas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Monagas.secret|Monagas.secret]] 
+
+### [Monagas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.public.md) 
+
+### [Monagas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.internal.md) 
+
+### [Monagas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.protect.md) 
+
+### [Monagas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.private.md) 
+
+### [Monagas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.personal.md) 
+
+### [Monagas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Amazonas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Amazonas|Amazonas]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Amazonas.public|Amazonas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Amazonas.internal|Amazonas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Amazonas.protect|Amazonas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Amazonas.private|Amazonas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Amazonas.personal|Amazonas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Amazonas.secret|Amazonas.secret]] 
+
+### [Amazonas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.public.md) 
+
+### [Amazonas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.internal.md) 
+
+### [Amazonas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.protect.md) 
+
+### [Amazonas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.private.md) 
+
+### [Amazonas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.personal.md) 
+
+### [Amazonas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.secret.md)
 

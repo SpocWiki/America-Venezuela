@@ -40,11 +40,16 @@ markerFolder: ./Yaracuy/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Yaracuy|Yaracuy]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Yaracuy.public|Yaracuy.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.internal|Yaracuy.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Yaracuy.protect|Yaracuy.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Yaracuy.private|Yaracuy.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Yaracuy.personal|Yaracuy.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Yaracuy.secret|Yaracuy.secret]] 
+
+### [Yaracuy.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.public.md) 
+
+### [Yaracuy.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.internal.md) 
+
+### [Yaracuy.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.protect.md) 
+
+### [Yaracuy.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.private.md) 
+
+### [Yaracuy.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.personal.md) 
+
+### [Yaracuy.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaYaracuy.secret.md)
 

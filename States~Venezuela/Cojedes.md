@@ -40,11 +40,16 @@ markerFolder: ./Cojedes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Cojedes|Cojedes]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Cojedes.public|Cojedes.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Cojedes.internal|Cojedes.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Cojedes.protect|Cojedes.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Cojedes.private|Cojedes.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Cojedes.personal|Cojedes.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Cojedes.secret|Cojedes.secret]] 
+
+### [Cojedes.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.public.md) 
+
+### [Cojedes.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.internal.md) 
+
+### [Cojedes.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.protect.md) 
+
+### [Cojedes.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.private.md) 
+
+### [Cojedes.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.personal.md) 
+
+### [Cojedes.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaCojedes.secret.md)
 

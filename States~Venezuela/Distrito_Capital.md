@@ -40,11 +40,16 @@ markerFolder: ./Distrito_Capital/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital|Distrito_Capital]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.public|Distrito_Capital.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.internal|Distrito_Capital.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.protect|Distrito_Capital.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.private|Distrito_Capital.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.personal|Distrito_Capital.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Distrito_Capital.secret|Distrito_Capital.secret]] 
+
+### [Distrito_Capital.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.public.md) 
+
+### [Distrito_Capital.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.internal.md) 
+
+### [Distrito_Capital.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.protect.md) 
+
+### [Distrito_Capital.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.private.md) 
+
+### [Distrito_Capital.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.personal.md) 
+
+### [Distrito_Capital.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaDistrito_Capital.secret.md)
 

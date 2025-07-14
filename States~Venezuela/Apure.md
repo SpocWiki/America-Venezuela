@@ -40,11 +40,16 @@ markerFolder: ./Apure/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Apure|Apure]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Apure.public|Apure.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Apure.internal|Apure.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Apure.protect|Apure.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Apure.private|Apure.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Apure.personal|Apure.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Apure.secret|Apure.secret]] 
+
+### [Apure.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.public.md) 
+
+### [Apure.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.internal.md) 
+
+### [Apure.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.protect.md) 
+
+### [Apure.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.private.md) 
+
+### [Apure.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.personal.md) 
+
+### [Apure.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.secret.md)
 

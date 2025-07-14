@@ -40,11 +40,16 @@ markerFolder: ./Aragua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Venezuela/Counties/Aragua|Aragua]] 
-- [[../../../../../../_public/geo/Continent/America~South/Venezuela/Counties/Aragua.public|Aragua.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Venezuela/Counties/Aragua.internal|Aragua.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Venezuela/Counties/Aragua.protect|Aragua.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Venezuela/Counties/Aragua.private|Aragua.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Venezuela/Counties/Aragua.personal|Aragua.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Venezuela/Counties/Aragua.secret|Aragua.secret]] 
+
+### [Aragua.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.public.md) 
+
+### [Aragua.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.internal.md) 
+
+### [Aragua.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.protect.md) 
+
+### [Aragua.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.private.md) 
+
+### [Aragua.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.personal.md) 
+
+### [Aragua.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaAragua.secret.md)
 
