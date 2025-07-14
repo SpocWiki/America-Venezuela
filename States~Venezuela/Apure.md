@@ -41,15 +41,17 @@ markerFolder: ./Apure/
 
 ## Confidential Links & Embeds: 
 
-### [Apure.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.public.md) 
+### [Apure](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.md) 
 
-### [Apure.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.internal.md) 
+### [Apure.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.public.md) 
 
-### [Apure.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.protect.md) 
+### [Apure.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.internal.md) 
 
-### [Apure.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.private.md) 
+### [Apure.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.protect.md) 
 
-### [Apure.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.personal.md) 
+### [Apure.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.private.md) 
 
-### [Apure.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaApure.secret.md)
+### [Apure.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.personal.md) 
+
+### [Apure.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Apure.secret.md)
 

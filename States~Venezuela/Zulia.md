@@ -41,15 +41,17 @@ markerFolder: ./Zulia/
 
 ## Confidential Links & Embeds: 
 
-### [Zulia.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.public.md) 
+### [Zulia](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.md) 
 
-### [Zulia.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.internal.md) 
+### [Zulia.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.public.md) 
 
-### [Zulia.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.protect.md) 
+### [Zulia.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.internal.md) 
 
-### [Zulia.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.private.md) 
+### [Zulia.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.protect.md) 
 
-### [Zulia.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.personal.md) 
+### [Zulia.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.private.md) 
 
-### [Zulia.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaZulia.secret.md)
+### [Zulia.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.personal.md) 
+
+### [Zulia.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Zulia.secret.md)
 

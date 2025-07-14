@@ -41,15 +41,17 @@ markerFolder: ./Bolívar/
 
 ## Confidential Links & Embeds: 
 
-### [Bolívar.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.public.md) 
+### [Bolívar](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.md) 
 
-### [Bolívar.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.internal.md) 
+### [Bolívar.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.public.md) 
 
-### [Bolívar.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.protect.md) 
+### [Bolívar.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.internal.md) 
 
-### [Bolívar.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.private.md) 
+### [Bolívar.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.protect.md) 
 
-### [Bolívar.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.personal.md) 
+### [Bolívar.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.private.md) 
 
-### [Bolívar.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaBolívar.secret.md)
+### [Bolívar.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.personal.md) 
+
+### [Bolívar.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Bolívar.secret.md)
 

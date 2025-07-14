@@ -41,15 +41,17 @@ markerFolder: ./Falcón/
 
 ## Confidential Links & Embeds: 
 
-### [Falcón.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.public.md) 
+### [Falcón](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.md) 
 
-### [Falcón.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.internal.md) 
+### [Falcón.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.public.md) 
 
-### [Falcón.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.protect.md) 
+### [Falcón.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.internal.md) 
 
-### [Falcón.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.private.md) 
+### [Falcón.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.protect.md) 
 
-### [Falcón.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.personal.md) 
+### [Falcón.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.private.md) 
 
-### [Falcón.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaFalcón.secret.md)
+### [Falcón.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.personal.md) 
+
+### [Falcón.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Anzoátegui/
 
 ## Confidential Links & Embeds: 
 
-### [Anzoátegui.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.public.md) 
+### [Anzoátegui](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.md) 
 
-### [Anzoátegui.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.internal.md) 
+### [Anzoátegui.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.public.md) 
 
-### [Anzoátegui.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.protect.md) 
+### [Anzoátegui.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.internal.md) 
 
-### [Anzoátegui.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.private.md) 
+### [Anzoátegui.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.protect.md) 
 
-### [Anzoátegui.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.personal.md) 
+### [Anzoátegui.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.private.md) 
 
-### [Anzoátegui.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaAnzoátegui.secret.md)
+### [Anzoátegui.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.personal.md) 
+
+### [Anzoátegui.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.secret.md)
 

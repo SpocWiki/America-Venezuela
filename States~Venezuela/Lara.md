@@ -41,15 +41,17 @@ markerFolder: ./Lara/
 
 ## Confidential Links & Embeds: 
 
-### [Lara.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.public.md) 
+### [Lara](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.md) 
 
-### [Lara.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.internal.md) 
+### [Lara.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.public.md) 
 
-### [Lara.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.protect.md) 
+### [Lara.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.internal.md) 
 
-### [Lara.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.private.md) 
+### [Lara.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.protect.md) 
 
-### [Lara.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.personal.md) 
+### [Lara.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.private.md) 
 
-### [Lara.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaLara.secret.md)
+### [Lara.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.personal.md) 
+
+### [Lara.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.secret.md)
 

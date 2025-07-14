@@ -41,15 +41,17 @@ markerFolder: ./Amazonas/
 
 ## Confidential Links & Embeds: 
 
-### [Amazonas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.public.md) 
+### [Amazonas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.md) 
 
-### [Amazonas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.internal.md) 
+### [Amazonas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.public.md) 
 
-### [Amazonas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.protect.md) 
+### [Amazonas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.internal.md) 
 
-### [Amazonas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.private.md) 
+### [Amazonas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.protect.md) 
 
-### [Amazonas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.personal.md) 
+### [Amazonas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.private.md) 
 
-### [Amazonas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaAmazonas.secret.md)
+### [Amazonas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.personal.md) 
+
+### [Amazonas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Amazonas.secret.md)
 

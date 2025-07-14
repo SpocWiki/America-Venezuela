@@ -41,15 +41,17 @@ markerFolder: ./Barinas/
 
 ## Confidential Links & Embeds: 
 
-### [Barinas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.public.md) 
+### [Barinas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.md) 
 
-### [Barinas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.internal.md) 
+### [Barinas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.public.md) 
 
-### [Barinas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.protect.md) 
+### [Barinas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.internal.md) 
 
-### [Barinas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.private.md) 
+### [Barinas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.protect.md) 
 
-### [Barinas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.personal.md) 
+### [Barinas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.private.md) 
 
-### [Barinas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaBarinas.secret.md)
+### [Barinas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.personal.md) 
+
+### [Barinas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Barinas.secret.md)
 

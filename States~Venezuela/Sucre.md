@@ -41,15 +41,17 @@ markerFolder: ./Sucre/
 
 ## Confidential Links & Embeds: 
 
-### [Sucre.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.public.md) 
+### [Sucre](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.md) 
 
-### [Sucre.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.internal.md) 
+### [Sucre.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.public.md) 
 
-### [Sucre.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.protect.md) 
+### [Sucre.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.internal.md) 
 
-### [Sucre.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.private.md) 
+### [Sucre.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.protect.md) 
 
-### [Sucre.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.personal.md) 
+### [Sucre.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.private.md) 
 
-### [Sucre.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaSucre.secret.md)
+### [Sucre.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.personal.md) 
+
+### [Sucre.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.secret.md)
 

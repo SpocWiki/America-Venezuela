@@ -41,15 +41,17 @@ markerFolder: ./Monagas/
 
 ## Confidential Links & Embeds: 
 
-### [Monagas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.public.md) 
+### [Monagas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.md) 
 
-### [Monagas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.internal.md) 
+### [Monagas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.public.md) 
 
-### [Monagas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.protect.md) 
+### [Monagas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.internal.md) 
 
-### [Monagas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.private.md) 
+### [Monagas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.protect.md) 
 
-### [Monagas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.personal.md) 
+### [Monagas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.private.md) 
 
-### [Monagas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaMonagas.secret.md)
+### [Monagas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.personal.md) 
+
+### [Monagas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Monagas.secret.md)
 

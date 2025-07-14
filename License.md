@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\VenezuelaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Venezuela/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\VenezuelaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Venezuela/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\VenezuelaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Venezuela/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\VenezuelaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Venezuela/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\VenezuelaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Venezuela/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\VenezuelaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Venezuela/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Venezuela/License.secret.md)
 

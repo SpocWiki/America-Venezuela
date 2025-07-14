@@ -41,15 +41,17 @@ markerFolder: ./Portuguesa/
 
 ## Confidential Links & Embeds: 
 
-### [Portuguesa.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.public.md) 
+### [Portuguesa](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.md) 
 
-### [Portuguesa.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.internal.md) 
+### [Portuguesa.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.public.md) 
 
-### [Portuguesa.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.protect.md) 
+### [Portuguesa.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.internal.md) 
 
-### [Portuguesa.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.private.md) 
+### [Portuguesa.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.protect.md) 
 
-### [Portuguesa.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.personal.md) 
+### [Portuguesa.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.private.md) 
 
-### [Portuguesa.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaPortuguesa.secret.md)
+### [Portuguesa.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.personal.md) 
+
+### [Portuguesa.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.secret.md)
 

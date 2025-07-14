@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caracas.public](/_public/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.public.md) 
+### [Caracas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.md) 
 
-### [Caracas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.internal.md) 
+### [Caracas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.public.md) 
 
-### [Caracas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.protect.md) 
+### [Caracas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.internal.md) 
 
-### [Caracas.private](/_private/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.private.md) 
+### [Caracas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.protect.md) 
 
-### [Caracas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.personal.md) 
+### [Caracas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.private.md) 
 
-### [Caracas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~Venezuela\Distrito_Capital\CityCaracas.secret.md)
+### [Caracas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.personal.md) 
+
+### [Caracas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.secret.md)
 

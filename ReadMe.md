@@ -136,15 +136,17 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\VenezuelaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Venezuela/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\VenezuelaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Venezuela/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\VenezuelaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Venezuela/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\VenezuelaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Venezuela/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\VenezuelaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Venezuela/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\VenezuelaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Venezuela/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Venezuela/ReadMe.secret.md)
 

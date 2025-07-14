@@ -41,15 +41,17 @@ markerFolder: ./Mérida/
 
 ## Confidential Links & Embeds: 
 
-### [Mérida.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.public.md) 
+### [Mérida](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.md) 
 
-### [Mérida.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.internal.md) 
+### [Mérida.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.public.md) 
 
-### [Mérida.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.protect.md) 
+### [Mérida.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.internal.md) 
 
-### [Mérida.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.private.md) 
+### [Mérida.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.protect.md) 
 
-### [Mérida.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.personal.md) 
+### [Mérida.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.private.md) 
 
-### [Mérida.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaMérida.secret.md)
+### [Mérida.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.personal.md) 
+
+### [Mérida.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.secret.md)
 

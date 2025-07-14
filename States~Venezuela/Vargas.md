@@ -41,15 +41,17 @@ markerFolder: ./Vargas/
 
 ## Confidential Links & Embeds: 
 
-### [Vargas.public](/_public/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.public.md) 
+### [Vargas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.md) 
 
-### [Vargas.internal](/_internal/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.internal.md) 
+### [Vargas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.public.md) 
 
-### [Vargas.protect](/_protect/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.protect.md) 
+### [Vargas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.internal.md) 
 
-### [Vargas.private](/_private/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.private.md) 
+### [Vargas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.protect.md) 
 
-### [Vargas.personal](/_personal/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.personal.md) 
+### [Vargas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.private.md) 
 
-### [Vargas.secret](/_secret/\Earth\Continent\America~South\Venezuela\States~VenezuelaVargas.secret.md)
+### [Vargas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.personal.md) 
+
+### [Vargas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Vargas.secret.md)
 
