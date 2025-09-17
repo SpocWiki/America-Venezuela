@@ -121,11 +121,11 @@ Continent :: [[South-America]]
 [VehicleCode::YV] 
 Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
 
-![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]] 
+![[Coat_of_arms_of_Venezuela.svg|350]] 
 
 ![[Anthem-Venezuela.mp3]] 
 
-![[Venezuela/Flag_of_Venezuela.svg|350]] 
+![[Flag_of_Venezuela.svg|350]] 
 
 [Alcohol-l::8.2] 
 [Language-Id::492] 

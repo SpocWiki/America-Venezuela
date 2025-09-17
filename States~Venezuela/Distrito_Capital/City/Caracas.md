@@ -130,7 +130,7 @@ Country :: [[../../../../Venezuela]]
 [Population::] 
 [Unknown::] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]] 
 
 ## #has_/map 
 
