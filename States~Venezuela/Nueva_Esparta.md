@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nueva_Esparta
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nueva_Esparta/
 markerFolder: ./Nueva_Esparta/

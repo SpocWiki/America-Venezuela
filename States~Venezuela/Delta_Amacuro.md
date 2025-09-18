@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Delta_Amacuro
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Delta_Amacuro/
 markerFolder: ./Delta_Amacuro/

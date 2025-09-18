@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Distrito_Capital
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Distrito_Capital/
 markerFolder: ./Distrito_Capital/

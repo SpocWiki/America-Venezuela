@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Dependencias_Federales
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dependencias_Federales/
 markerFolder: ./Dependencias_Federales/
