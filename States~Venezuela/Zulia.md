@@ -33,7 +33,7 @@ id: Zulia
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./Zulia/
+geojsonFolder: ./Zulia//
 markerFolder: ./Zulia/
 ```
 
