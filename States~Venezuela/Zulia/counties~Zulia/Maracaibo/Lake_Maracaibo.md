@@ -3,7 +3,7 @@ aliases:
   - Lake Maracaibo
   - Lago de Maracaibo
 has_id_wikidata: Q182137
-location: "[[_Standards/WikiData/WD~Maracaibo,171632]]"
+locations: "[[_Standards/WikiData/WD~Maracaibo,171632]]"
 outflows: "[[_Standards/WikiData/WD~Gulf_of_Venezuela,210305]]"
 described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 inflows:
