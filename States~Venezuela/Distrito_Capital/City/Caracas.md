@@ -128,7 +128,7 @@ State ::
 Country :: [[../../../../Venezuela]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]] 
 
