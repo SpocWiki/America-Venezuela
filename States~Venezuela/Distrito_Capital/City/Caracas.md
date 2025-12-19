@@ -12,7 +12,7 @@ tags:
 SpocWebEntityId: 29478
 isDeleted: false
 confidential: public
-aliases: 
+aliases:
 has_id_wikidata: Q1533
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Cluj_Napoca,100188]]"
@@ -52,7 +52,7 @@ instance_of:
   - "[[_Standards/WikiData/WD~city,515]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
