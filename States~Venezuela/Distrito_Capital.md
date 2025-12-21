@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Distrito_Capital
+  - Distrito Capital
 location:
   - 10.5
   - -67
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Distrito_Capital
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Distrito_Capital

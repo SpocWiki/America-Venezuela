@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nueva_Esparta
+  - Nueva Esparta
 location:
   - 11
   - -64.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nueva_Esparta
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Nueva_Esparta

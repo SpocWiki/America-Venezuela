@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Dependencias_Federales
+  - Dependencias Federales
 location:
   - 10.9
   - -65.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Dependencias_Federales
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Dependencias_Federales

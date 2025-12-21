@@ -5,81 +5,82 @@ aliases:
   - Hugo Chávez
   - Hugo_Chávez
   - Chávez
+  - Chávez,Hugo
 has_id_wikidata: Q8440
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
+  - '[[_Standards/WikiData/WD~politician,82955]]'
+  - '[[_Standards/WikiData/WD~military_officer,189290]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Prince_Henry,93488]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]"
-  - "[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]"
-  - "[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]"
-  - "[[_Standards/WikiData/WD~Order_of_Francisco_Morazán,2719582]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Friendship_of_Peoples,3885267]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Star_of_Carabobo,4335885]]"
-  - "[[_Standards/WikiData/WD~Uatsamonga_Order,4335903]]"
-  - "[[_Standards/WikiData/WD~Order_of_Honour_and_Glory,4335906]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Umayyads,14605606]]"
-  - "[[_Standards/WikiData/WD~Order_of_Augusto_César_Sandino,16141095]]"
-  - "[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Prince_Henry,20859482]]"
-  - "[[_Standards/WikiData/WD~Ribbon_of_the_Order_of_the_Republic_of_Serbia,42313221]]"
-  - "[[_Standards/WikiData/WD~Blue_Planet_Award,47507305]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_International_Business_and_Economics,63092087]]"
-  - "[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]"
-convicted_of: "[[_Standards/WikiData/WD~rebellion,124734]]"
-cause_of_death: "[[_Standards/WikiData/WD~colorectal_cancer,188874]]"
+  - '[[_Standards/WikiData/WD~Order_of_Prince_Henry,93488]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Southern_Cross,93713]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]'
+  - '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+  - '[[_Standards/WikiData/WD~Order_of_Francisco_de_Miranda,2465245]]'
+  - '[[_Standards/WikiData/WD~Order_of_Francisco_Morazán,2719582]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Friendship_of_Peoples,3885267]]'
+  - '[[_Standards/WikiData/WD~National_Order_of_Merit_Carlos_Manuel_de_Céspedes,4335886]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Star_of_Carabobo,4335885]]'
+  - '[[_Standards/WikiData/WD~Uatsamonga_Order,4335903]]'
+  - '[[_Standards/WikiData/WD~Order_of_Honour_and_Glory,4335906]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Umayyads,14605606]]'
+  - '[[_Standards/WikiData/WD~Order_of_Augusto_César_Sandino,16141095]]'
+  - '[[_Standards/WikiData/WD~Grand_Collar_of_the_Order_of_Prince_Henry,20859482]]'
+  - '[[_Standards/WikiData/WD~Ribbon_of_the_Order_of_the_Republic_of_Serbia,42313221]]'
+  - '[[_Standards/WikiData/WD~Blue_Planet_Award,47507305]]'
+  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_International_Business_and_Economics,63092087]]'
+  - '[[_Standards/WikiData/WD~Medal_of_the_Oriental_Republic_of_Uruguay,96279182]]'
+convicted_of: '[[_Standards/WikiData/WD~rebellion,124734]]'
+cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~United_Socialist_Party_of_Venezuela,197864]]"
-  - "[[_Standards/WikiData/WD~Revolutionary_Bolivarian_Movement_200,1236302]]"
-  - "[[_Standards/WikiData/WD~Fifth_Republic_Movement,1336488]]"
+  - '[[_Standards/WikiData/WD~United_Socialist_Party_of_Venezuela,197864]]'
+  - '[[_Standards/WikiData/WD~Revolutionary_Bolivarian_Movement_200,1236302]]'
+  - '[[_Standards/WikiData/WD~Fifth_Republic_Movement,1336488]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Adán_Chávez,380283]]"
-  - "[[_Standards/WikiData/WD~Argenis_Chávez,644780]]"
-  - "[[_Standards/WikiData/WD~Aníbal_Chávez,4778506]]"
+  - '[[_Standards/WikiData/WD~Adán_Chávez,380283]]'
+  - '[[_Standards/WikiData/WD~Argenis_Chávez,644780]]'
+  - '[[_Standards/WikiData/WD~Aníbal_Chávez,4778506]]'
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~commander_in_chief,380782]]"
-  - "[[_Standards/WikiData/WD~lieutenant_colonel,493898]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sabaneta,728412]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
-position_played_on_team_speciality: "[[_Standards/WikiData/WD~pitcher,1048902]]"
-supported_sports_team: "[[_Standards/WikiData/WD~Navegantes_del_Magallanes,1052997]]"
-political_alignment: "[[_Standards/WikiData/WD~far_left,1129409]]"
-given_name: "[[_Standards/WikiData/WD~Hugo,1242555]]"
-father: "[[_Standards/WikiData/WD~Hugo_de_los_Reyes_Chávez,1422810]]"
+  - '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
+  - '[[_Standards/WikiData/WD~lieutenant_colonel,493898]]'
+place_of_birth: '[[_Standards/WikiData/WD~Sabaneta,728412]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+position_played_on_team_speciality: '[[_Standards/WikiData/WD~pitcher,1048902]]'
+supported_sports_team: '[[_Standards/WikiData/WD~Navegantes_del_Magallanes,1052997]]'
+political_alignment: '[[_Standards/WikiData/WD~far_left,1129409]]'
+given_name: '[[_Standards/WikiData/WD~Hugo,1242555]]'
+father: '[[_Standards/WikiData/WD~Hugo_de_los_Reyes_Chávez,1422810]]'
 position_held:
-  - "[[_Standards/WikiData/WD~party_leader,1553195]]"
-  - "[[_Standards/WikiData/WD~President_of_Venezuela,11942698]]"
-military_branch: "[[_Standards/WikiData/WD~Bolivarian_Army,2505986]]"
-residence: "[[_Standards/WikiData/WD~La_Casona,2945648]]"
-educated_at: "[[_Standards/WikiData/WD~Military_Academy_of_the_Bolivarian_Army,3234085]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-student_of: "[[_Standards/WikiData/WD~Hugo_José_García_Hernández,4133936]]"
-family_name: "[[_Standards/WikiData/WD~Chávez,5118644]]"
-mother: "[[_Standards/WikiData/WD~Elena_Frías_de_Chávez,5359015]]"
+  - '[[_Standards/WikiData/WD~party_leader,1553195]]'
+  - '[[_Standards/WikiData/WD~President_of_Venezuela,11942698]]'
+military_branch: '[[_Standards/WikiData/WD~Bolivarian_Army,2505986]]'
+residence: '[[_Standards/WikiData/WD~La_Casona,2945648]]'
+educated_at: '[[_Standards/WikiData/WD~Military_Academy_of_the_Bolivarian_Army,3234085]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+student_of: '[[_Standards/WikiData/WD~Hugo_José_García_Hernández,4133936]]'
+family_name: '[[_Standards/WikiData/WD~Chávez,5118644]]'
+mother: '[[_Standards/WikiData/WD~Elena_Frías_de_Chávez,5359015]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Marisabel_Rodríguez_de_Chávez,6328534]]"
-  - "[[_Standards/WikiData/WD~Nancy_Colmenares,28647798]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Hugo_Chávez,13543824]]"
-place_of_death: "[[_Standards/WikiData/WD~Hospital_Militar_de_Caracas,16576090]]"
+  - '[[_Standards/WikiData/WD~Marisabel_Rodríguez_de_Chávez,6328534]]'
+  - '[[_Standards/WikiData/WD~Nancy_Colmenares,28647798]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hugo_Chávez,13543824]]'
+place_of_death: '[[_Standards/WikiData/WD~Hospital_Militar_de_Caracas,16576090]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-relative: "[[_Standards/WikiData/WD~Asdrúbal_Chávez,17987387]]"
-second_family_name_in_Spanish_name: "[[_Standards/WikiData/WD~Frías,33321694]]"
+  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+relative: '[[_Standards/WikiData/WD~Asdrúbal_Chávez,17987387]]'
+second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Frías,33321694]]'
 child:
-  - "[[_Standards/WikiData/WD~María_Gabriela_Chávez,48772419]]"
-  - "[[_Standards/WikiData/WD~Rosinés_Chávez,134450246]]"
-place_of_burial: "[[_Standards/WikiData/WD~Historical_museum_in_Caracas,55452107]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Venezuela,717]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-native_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+  - '[[_Standards/WikiData/WD~María_Gabriela_Chávez,48772419]]'
+  - '[[_Standards/WikiData/WD~Rosinés_Chávez,134450246]]'
+place_of_burial: '[[_Standards/WikiData/WD~Historical_museum_in_Caracas,55452107]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Venezuela,717]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+native_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 6
 height: 173
 catchphrase: ¡Patria, socialismo o muerte!
@@ -102,7 +103,7 @@ official_website:
   - http://www.chavez.org.ve
 ORCID_iD: 0000-0002-3296-9348
 ISNI: 000000011085880X
-RIA_Novosti_reference: "51906359"
+RIA_Novosti_reference: 51906359
 Plex_person_key: 5d7768337228e5001f1de327
 X_Twitter_username: chavezcandanga
 Libris_URI: fcrtnn7z5gcphtk

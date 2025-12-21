@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Delta_Amacuro
+  - Delta Amacuro
 location:
   - 8.9
   - -61.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Delta_Amacuro
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Delta_Amacuro

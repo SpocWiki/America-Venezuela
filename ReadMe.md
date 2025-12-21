@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Venezuela
+  - Venezuela (Bolivarian Republic of)
+  - Venezuela (República Bolivariana de)
+  - Venezuela (République bolivarienne du)
+  - فنزويلا (جمهورية - البوليفارية)
+  - 委内瑞拉(玻利瓦尔共和国)
+  - Венесуэла (Боливарианская Республика)
+  - the Bolivarian Republic of Venezuela
+  - la República Bolivariana de Venezuela
+  - ReadMe
 location:
   - 10.5
   - -66.93
@@ -15,22 +26,12 @@ cssclasses:
   - Country
 publish: true
 title: Venezuela
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Venezuela
-  - Venezuela (Bolivarian Republic of)
-  - Venezuela (República Bolivariana de)
-  - Venezuela (République bolivarienne du)
-  - فنزويلا (جمهورية - البوليفارية)
-  - 委内瑞拉(玻利瓦尔共和国)
-  - Венесуэла (Боливарианская Республика)
-  - the Bolivarian Republic of Venezuela
-  - la República Bolivariana de Venezuela
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-VE
 ---
