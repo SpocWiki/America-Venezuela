@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1567-08-04 
 location:
   - 10.5
   - -66.93
