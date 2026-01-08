@@ -42,15 +42,15 @@ dv_ISO4217-currency_country_name: VENEZUELA (BOLIVARIAN REPUBLIC OF)
 dv_Telephone: 58
 dv_Global: true
 dv_Global_Name: World
-dv_name: Venezuela
-dv_name-en:
+dv_has_name_: Venezuela
+dv_has_name_en:
   - Venezuela (Bolivarian Republic of)
   - Venezuela
-dv_name-es: Venezuela (República Bolivariana de)
-dv_name-fr: Venezuela (République bolivarienne du)
-dv_name-cn: 委内瑞拉(玻利瓦尔共和国)
-dv_name-ar: فنزويلا (جمهورية - البوليفارية)
-dv_name-ru: Венесуэла (Боливарианская Республика)
+dv_has_name_es: Venezuela (República Bolivariana de)
+dv_has_name_fr: Venezuela (République bolivarienne du)
+dv_has_name_cn: 委内瑞拉(玻利瓦尔共和国)
+dv_has_name_ar: فنزويلا (جمهورية - البوليفارية)
+dv_has_name_ru: Венесуэла (Боливарианская Республика)
 dv_CLDR_display_name: Venezuela
 dv_UNTERM_English: Venezuela (Bolivarian Republic of)
 dv_UNTERM_English_Formal: the Bolivarian Republic of Venezuela
@@ -87,7 +87,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 862
 dv_ISO2: VE
 dv_ISO3: VEN
-dv_name-de: Venezuela
+dv_has_name_de: Venezuela
 dv_Area-Total: 912050
 dv_Area-Land: 882050
 dv_Continent: "[[South-America]]"
@@ -114,12 +114,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Venezuela (Bolivarian Republic of) ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Venezuela (Bolivarian Republic of) ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +179,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Venezuela] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Venezuela] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

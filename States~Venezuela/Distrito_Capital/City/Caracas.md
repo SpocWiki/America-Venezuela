@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -66.93
 dv_has_place_latitude: 10.5
-dv_name: Caracas
+dv_has_name_: Caracas
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
