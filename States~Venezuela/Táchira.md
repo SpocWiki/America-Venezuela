@@ -40,17 +40,17 @@ markerFolder: ./Táchira/
 
 ## Confidential Links & Embeds: 
 
-### [Táchira](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira|Táchira]] 
 
-### [Táchira.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.public|Táchira.public]] 
 
-### [Táchira.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.internal|Táchira.internal]] 
 
-### [Táchira.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.protect|Táchira.protect]] 
 
-### [Táchira.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.private|Táchira.private]] 
 
-### [Táchira.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.personal|Táchira.personal]] 
 
-### [Táchira.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Táchira.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Táchira.secret|Táchira.secret]] 
 

@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -66.93
+dv_has_place_latitude: 10.5
+dv_name: Caracas
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
+
 has_time_started: 1567-08-04 
 location:
   - 10.5
@@ -121,17 +129,17 @@ official_website: https://www.gdc.gob.ve
 # [[Caracas]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-66.93] 
-[has_place_latitude::10.5] 
-[name::Caracas] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Venezuela]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -147,17 +155,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Caracas](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas|Caracas]] 
 
-### [Caracas.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.public|Caracas.public]] 
 
-### [Caracas.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.internal|Caracas.internal]] 
 
-### [Caracas.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.protect|Caracas.protect]] 
 
-### [Caracas.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.private|Caracas.private]] 
 
-### [Caracas.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.personal|Caracas.personal]] 
 
-### [Caracas.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Distrito_Capital/City/Caracas.secret|Caracas.secret]] 
 

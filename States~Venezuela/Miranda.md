@@ -40,17 +40,17 @@ markerFolder: ./Miranda/
 
 ## Confidential Links & Embeds: 
 
-### [Miranda](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda|Miranda]] 
 
-### [Miranda.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.public|Miranda.public]] 
 
-### [Miranda.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.internal|Miranda.internal]] 
 
-### [Miranda.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.protect|Miranda.protect]] 
 
-### [Miranda.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.private|Miranda.private]] 
 
-### [Miranda.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.personal|Miranda.personal]] 
 
-### [Miranda.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Miranda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Miranda.secret|Miranda.secret]] 
 

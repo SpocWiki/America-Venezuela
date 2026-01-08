@@ -40,17 +40,17 @@ markerFolder: ./Mérida/
 
 ## Confidential Links & Embeds: 
 
-### [Mérida](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida|Mérida]] 
 
-### [Mérida.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.public|Mérida.public]] 
 
-### [Mérida.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.internal|Mérida.internal]] 
 
-### [Mérida.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.protect|Mérida.protect]] 
 
-### [Mérida.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.private|Mérida.private]] 
 
-### [Mérida.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.personal|Mérida.personal]] 
 
-### [Mérida.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Mérida.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Mérida.secret|Mérida.secret]] 
 

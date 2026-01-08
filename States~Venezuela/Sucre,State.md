@@ -41,17 +41,17 @@ markerFolder: ./Sucre/
 
 ## Confidential Links & Embeds: 
 
-### [Sucre](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State|Sucre,State]] 
 
-### [Sucre.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.public|Sucre,State.public]] 
 
-### [Sucre.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.internal|Sucre,State.internal]] 
 
-### [Sucre.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.protect|Sucre,State.protect]] 
 
-### [Sucre.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.private|Sucre,State.private]] 
 
-### [Sucre.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.personal|Sucre,State.personal]] 
 
-### [Sucre.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Sucre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Sucre,State.secret|Sucre,State.secret]] 
 

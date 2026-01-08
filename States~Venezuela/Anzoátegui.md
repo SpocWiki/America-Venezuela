@@ -40,17 +40,17 @@ markerFolder: ./Anzoátegui/
 
 ## Confidential Links & Embeds: 
 
-### [Anzoátegui](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui|Anzoátegui]] 
 
-### [Anzoátegui.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.public|Anzoátegui.public]] 
 
-### [Anzoátegui.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.internal|Anzoátegui.internal]] 
 
-### [Anzoátegui.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.protect|Anzoátegui.protect]] 
 
-### [Anzoátegui.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.private|Anzoátegui.private]] 
 
-### [Anzoátegui.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.personal|Anzoátegui.personal]] 
 
-### [Anzoátegui.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Anzoátegui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Anzoátegui.secret|Anzoátegui.secret]] 
 

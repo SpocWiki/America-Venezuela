@@ -40,17 +40,17 @@ markerFolder: ./Lara/
 
 ## Confidential Links & Embeds: 
 
-### [Lara](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara|Lara]] 
 
-### [Lara.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.public|Lara.public]] 
 
-### [Lara.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.internal|Lara.internal]] 
 
-### [Lara.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.protect|Lara.protect]] 
 
-### [Lara.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.private|Lara.private]] 
 
-### [Lara.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.personal|Lara.personal]] 
 
-### [Lara.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Lara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Lara.secret|Lara.secret]] 
 

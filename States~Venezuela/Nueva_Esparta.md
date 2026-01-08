@@ -41,17 +41,17 @@ markerFolder: ./Nueva_Esparta/
 
 ## Confidential Links & Embeds: 
 
-### [Nueva_Esparta](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta|Nueva_Esparta]] 
 
-### [Nueva_Esparta.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.public|Nueva_Esparta.public]] 
 
-### [Nueva_Esparta.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.internal|Nueva_Esparta.internal]] 
 
-### [Nueva_Esparta.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.protect|Nueva_Esparta.protect]] 
 
-### [Nueva_Esparta.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.private|Nueva_Esparta.private]] 
 
-### [Nueva_Esparta.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.personal|Nueva_Esparta.personal]] 
 
-### [Nueva_Esparta.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Nueva_Esparta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Nueva_Esparta.secret|Nueva_Esparta.secret]] 
 

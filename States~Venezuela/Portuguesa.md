@@ -40,17 +40,17 @@ markerFolder: ./Portuguesa/
 
 ## Confidential Links & Embeds: 
 
-### [Portuguesa](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa|Portuguesa]] 
 
-### [Portuguesa.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.public|Portuguesa.public]] 
 
-### [Portuguesa.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.internal|Portuguesa.internal]] 
 
-### [Portuguesa.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.protect|Portuguesa.protect]] 
 
-### [Portuguesa.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.private|Portuguesa.private]] 
 
-### [Portuguesa.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.personal|Portuguesa.personal]] 
 
-### [Portuguesa.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Portuguesa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Portuguesa.secret|Portuguesa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Guárico/
 
 ## Confidential Links & Embeds: 
 
-### [Guárico](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico|Guárico]] 
 
-### [Guárico.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.public|Guárico.public]] 
 
-### [Guárico.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.internal|Guárico.internal]] 
 
-### [Guárico.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.protect|Guárico.protect]] 
 
-### [Guárico.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.private|Guárico.private]] 
 
-### [Guárico.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.personal|Guárico.personal]] 
 
-### [Guárico.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Guárico.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Guárico.secret|Guárico.secret]] 
 

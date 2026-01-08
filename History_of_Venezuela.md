@@ -5,20 +5,23 @@ aliases:
   - History of Venezuela
 has_id_wikidata: Q8914
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_South_America,912852]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-facet_of: '[[_Standards/WikiData/WD~Venezuela,717]]'
-country: '[[_Standards/WikiData/WD~Venezuela,717]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_South_America,912852]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Venezuela,717]]"
+country: "[[_Standards/WikiData/WD~Venezuela,717]]"
 Dewey_Decimal_Classification: 987
 Commons_category: History of Venezuela
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Venezuela,8914|WD~History_of_Venezuela,8914]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Venezuela,8914|WD~History_of_Venezuela,8914]]"
 ---
 
 # [[History_of_Venezuela]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Venezuela,8914|WD~History_of_Venezuela,8914]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -55,4 +58,21 @@ Commons_category: History of Venezuela
 > Since 1958, Venezuela has had a series of democratic governments. However, economic shocks in the 1980s led to several political crises, including the deadly Caracazo riots of 1989, two attempted coups in 1992, and the impeachment of El Presidente Carlos Andrés Pérez in 1993. A collapse in confidence in the existing parties saw the 1998 election of former coup-involved career officer Hugo Chávez and the launch of the Bolivarian Revolution, beginning with a 1999 Constituent Assembly to write a new Constitution of Venezuela. This new constitution officially changed the name of the country to República Bolivariana de Venezuela (Bolivarian Republic of Venezuela). At the same time, the new government of Venezuela started several changes in the internal economy of the country, which resulted in a socioeconomic crisis that began during the rule of Chavez and Nicolás Maduro. The crisis is characterised by hyperinflation, escalating famine, disease, crime, and mortality, leading to massive emigration from the country.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Venezuela) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela|History_of_Venezuela]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.public|History_of_Venezuela.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.internal|History_of_Venezuela.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.protect|History_of_Venezuela.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.private|History_of_Venezuela.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.personal|History_of_Venezuela.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/History_of_Venezuela.secret|History_of_Venezuela.secret]] 
 

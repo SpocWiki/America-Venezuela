@@ -41,17 +41,17 @@ markerFolder: ./Delta_Amacuro/
 
 ## Confidential Links & Embeds: 
 
-### [Delta_Amacuro](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro|Delta_Amacuro]] 
 
-### [Delta_Amacuro.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.public|Delta_Amacuro.public]] 
 
-### [Delta_Amacuro.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.internal|Delta_Amacuro.internal]] 
 
-### [Delta_Amacuro.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.protect|Delta_Amacuro.protect]] 
 
-### [Delta_Amacuro.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.private|Delta_Amacuro.private]] 
 
-### [Delta_Amacuro.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.personal|Delta_Amacuro.personal]] 
 
-### [Delta_Amacuro.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Delta_Amacuro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Delta_Amacuro.secret|Delta_Amacuro.secret]] 
 

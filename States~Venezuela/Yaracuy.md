@@ -40,17 +40,17 @@ markerFolder: ./Yaracuy/
 
 ## Confidential Links & Embeds: 
 
-### [Yaracuy](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy|Yaracuy]] 
 
-### [Yaracuy.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.public|Yaracuy.public]] 
 
-### [Yaracuy.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.internal|Yaracuy.internal]] 
 
-### [Yaracuy.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.protect|Yaracuy.protect]] 
 
-### [Yaracuy.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.private|Yaracuy.private]] 
 
-### [Yaracuy.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.personal|Yaracuy.personal]] 
 
-### [Yaracuy.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Yaracuy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Yaracuy.secret|Yaracuy.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Trujillo/
 
 ## Confidential Links & Embeds: 
 
-### [Trujillo](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo|Trujillo]] 
 
-### [Trujillo.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.public|Trujillo.public]] 
 
-### [Trujillo.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.internal|Trujillo.internal]] 
 
-### [Trujillo.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.protect|Trujillo.protect]] 
 
-### [Trujillo.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.private|Trujillo.private]] 
 
-### [Trujillo.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.personal|Trujillo.personal]] 
 
-### [Trujillo.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Trujillo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Trujillo.secret|Trujillo.secret]] 
 

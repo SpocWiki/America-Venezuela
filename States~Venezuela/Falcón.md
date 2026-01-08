@@ -40,17 +40,17 @@ markerFolder: ./Falcón/
 
 ## Confidential Links & Embeds: 
 
-### [Falcón](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón|Falcón]] 
 
-### [Falcón.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.public|Falcón.public]] 
 
-### [Falcón.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.internal|Falcón.internal]] 
 
-### [Falcón.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.protect|Falcón.protect]] 
 
-### [Falcón.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.private|Falcón.private]] 
 
-### [Falcón.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.personal|Falcón.personal]] 
 
-### [Falcón.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Falcón.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Falcón.secret|Falcón.secret]] 
 

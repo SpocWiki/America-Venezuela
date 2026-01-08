@@ -40,17 +40,17 @@ markerFolder: ./Carabobo/
 
 ## Confidential Links & Embeds: 
 
-### [Carabobo](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo|Carabobo]] 
 
-### [Carabobo.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.public|Carabobo.public]] 
 
-### [Carabobo.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.internal|Carabobo.internal]] 
 
-### [Carabobo.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.protect|Carabobo.protect]] 
 
-### [Carabobo.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.private|Carabobo.private]] 
 
-### [Carabobo.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.personal|Carabobo.personal]] 
 
-### [Carabobo.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Carabobo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Carabobo.secret|Carabobo.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Cojedes/
 
 ## Confidential Links & Embeds: 
 
-### [Cojedes](/_Standards/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes|Cojedes]] 
 
-### [Cojedes.public](/_public/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.public|Cojedes.public]] 
 
-### [Cojedes.internal](/_internal/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.internal|Cojedes.internal]] 
 
-### [Cojedes.protect](/_protect/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.protect|Cojedes.protect]] 
 
-### [Cojedes.private](/_private/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.private|Cojedes.private]] 
 
-### [Cojedes.personal](/_personal/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.personal|Cojedes.personal]] 
 
-### [Cojedes.secret](/_secret/Earth/Continent/America~South/Venezuela/States~Venezuela/Cojedes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela/States~Venezuela/Cojedes.secret|Cojedes.secret]] 
 
