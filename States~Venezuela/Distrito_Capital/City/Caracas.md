@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -66.93
 dv_has_place_latitude: 10.5
-dv_has_name_: Caracas
+dv_has_name: Caracas
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Caracas,1533|WD~Caracas,1533]]"
@@ -132,7 +132,7 @@ official_website: https://www.gdc.gob.ve
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Venezuela]]  
 [StateId::] 
