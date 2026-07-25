@@ -269,7 +269,7 @@ demonym:
 - венесуэлка
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -612,7 +612,7 @@ dv_ISO2: VE
 dv_ISO3: VEN
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+  - '[[../../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
   - '[[/_Standards/Earth/Continent/America~South/Andes/Venezuela|Venezuela]]'
   - '[[/_public/Earth/Continent/America~South/Andes/Venezuela.public|Venezuela.public]]'
   - '[[/_internal/Earth/Continent/America~South/Andes/Venezuela.internal|Venezuela.internal]]'
@@ -945,7 +945,7 @@ dv_has_place_longitude: -66.93
 dv_has_place_latitude: 10.5
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
+- '[[../../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]]'
 - '[[/_Standards/Earth/Continent/America~South/Andes/Venezuela|Venezuela]]'
 - '[[/_public/Earth/Continent/America~South/Andes/Venezuela.public|Venezuela.public]]'
 - '[[/_internal/Earth/Continent/America~South/Andes/Venezuela.internal|Venezuela.internal]]'
@@ -1027,12 +1027,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Venezuela,717|WD~Venezuela,717]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Venezuela/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1053,7 +1053,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Venezuela_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1077,13 +1077,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas|Caracas]]  
+Capital :: [[Counties/Distrito_Capital/City/Caracas|Caracas]]  
 
-![[Venezuela/Coat_of_arms_of_Venezuela.svg|350]]
+![[Coat_of_arms_of_Venezuela.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Venezuela.mp3|Anthem-Venezuela.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Venezuela.mp3|Anthem-Venezuela.mp3]]
 
-![[Venezuela/Flag_of_Venezuela.svg|350]]
+![[Flag_of_Venezuela.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
